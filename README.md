@@ -77,8 +77,9 @@ United States Marine Corps | June 2015 – June 2020
 
 LinkedIn: linkedin.com/in/ariel-lee-4a6a231aa
 Email: ariel.j.lee@outlook.com
-Location: Houston, Texas
+Location: Katy, Texas
 
 ---
+
 
 *Seeking Principal/Staff AI Architecture roles focused on Graph-RAG systems and enterprise AI transformation.*
